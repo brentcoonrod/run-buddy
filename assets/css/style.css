@@ -74,6 +74,7 @@ section {
     padding: 60px;
 }
 
+/* homepage hero */
 .hero {
     background-image: url("../images/hero-bg.jpeg");
     height: 600px;
